@@ -1,0 +1,8 @@
+{
+  "updatedAt": null,
+  "rooms": [
+    { "id": "01", "name": "Bungalow 01", "confirmedThrough": null, "periods": [] },
+    { "id": "02", "name": "Bungalow 02", "confirmedThrough": null, "periods": [] },
+    { "id": "03", "name": "Bungalow 03", "confirmedThrough": null, "periods": [] }
+  ]
+}
